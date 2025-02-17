@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 <!--
 **janoskyyy/janoskyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
